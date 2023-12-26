@@ -1,8 +1,15 @@
 # PomodoroPy
 A pomodoro timer app written in python using the QT 6 framework.
 
-Functionality:
--set the pomodoro length
+Core Functionality:
+-set the pomodoro length, number and duration of break
 -start/stop the timer
--store each completed pomodoro to a file
--browse through a record of pomodoros completed for each day
+-keep track of current pomodoro
+
+Feature roadmap:
+-cosmetic: UI enhancement and picture as a clock
+-Database: keep track of pomodoros over timer
+-Graph: show pomodoro's over time
+-cosmetic: UI themes
+-Email report send montly report
+
